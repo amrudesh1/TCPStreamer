@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IpAddressClient>127.0.0.1</IpAddressClient>
+  <IPAddressServer>127.0.0.1</IPAddressServer>
+  <PortClient>8032</PortClient>
+  <PortServer>8032</PortServer>
+  <SoundInputDeviceNameClient>Microphone (Realtek High Defini</SoundInputDeviceNameClient>
+  <SoundOutputDeviceNameClient>Speaker/HP (Realtek High Defini</SoundOutputDeviceNameClient>
+  <SoundInputDeviceNameServer>Microphone (Realtek High Defini</SoundInputDeviceNameServer>
+  <SoundOutputDeviceNameServer>Speaker/HP (Realtek High Defini</SoundOutputDeviceNameServer>
+  <SamplesPerSecondClient>8000</SamplesPerSecondClient>
+  <BitsPerSampleClient>16</BitsPerSampleClient>
+  <ChannelsClient>1</ChannelsClient>
+  <SamplesPerSecondServer>8000</SamplesPerSecondServer>
+  <BitsPerSampleServer>16</BitsPerSampleServer>
+  <ChannelsServer>1</ChannelsServer>
+  <UseJitterBufferClientRecording>true</UseJitterBufferClientRecording>
+  <UseJitterBufferServerRecording>true</UseJitterBufferServerRecording>
+  <JitterBufferCountServer>20</JitterBufferCountServer>
+  <JitterBufferCountClient>50</JitterBufferCountClient>
+  <FileName />
+  <LoopFile>false</LoopFile>
+  <MuteClientPlaying>true</MuteClientPlaying>
+  <ServerNoSpeakAll>false</ServerNoSpeakAll>
+  <ClientNoSpeakAll>false</ClientNoSpeakAll>
+  <MuteServerListen>false</MuteServerListen>
+</Configuration>

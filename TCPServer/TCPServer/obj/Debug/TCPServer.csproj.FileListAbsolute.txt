@@ -1,0 +1,5 @@
+C:\Users\Amrudesh\Desktop\New folder\TCPServer\TCPServer\bin\Debug\TCPServer.dll
+C:\Users\Amrudesh\Desktop\New folder\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\Amrudesh\Desktop\New folder\TCPServer\TCPServer\obj\Debug\TCPServer.dll
+C:\Users\Amrudesh\Desktop\New folder\TCPServer\TCPServer\obj\Debug\TCPServer.pdb
+C:\Users\Amrudesh\Desktop\New folder\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache

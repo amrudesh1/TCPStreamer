@@ -1,0 +1,5 @@
+C:\Users\Amrudesh\Desktop\New folder\TCPClient\TCPClient\bin\Debug\TCPClient.dll
+C:\Users\Amrudesh\Desktop\New folder\TCPClient\TCPClient\bin\Debug\TCPClient.pdb
+C:\Users\Amrudesh\Desktop\New folder\TCPClient\TCPClient\obj\Debug\TCPClient.dll
+C:\Users\Amrudesh\Desktop\New folder\TCPClient\TCPClient\obj\Debug\TCPClient.pdb
+C:\Users\Amrudesh\Desktop\New folder\TCPClient\TCPClient\obj\Debug\TCPClient.csprojResolveAssemblyReference.cache

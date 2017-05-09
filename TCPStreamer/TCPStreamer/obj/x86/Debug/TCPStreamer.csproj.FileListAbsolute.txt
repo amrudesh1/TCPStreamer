@@ -1,0 +1,15 @@
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.exe.config
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.exe
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\TCPStreamer.pdb
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\TCPClient.dll
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\TCPServer.dll
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\WinSound.dll
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\TCPClient.pdb
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\TCPServer.pdb
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\bin\Debug\WinSound.pdb
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csprojResolveAssemblyReference.cache
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.FormMain.resources
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.Properties.Resources.resources
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.csproj.GenerateResource.Cache
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.exe
+C:\Users\Amrudesh\Desktop\New folder\TCPStreamer\TCPStreamer\obj\x86\Debug\TCPStreamer.pdb

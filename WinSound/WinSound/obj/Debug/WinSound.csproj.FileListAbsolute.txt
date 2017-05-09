@@ -1,0 +1,4 @@
+C:\Users\Amrudesh\Desktop\New folder\WinSound\WinSound\bin\Debug\WinSound.dll
+C:\Users\Amrudesh\Desktop\New folder\WinSound\WinSound\bin\Debug\WinSound.pdb
+C:\Users\Amrudesh\Desktop\New folder\WinSound\WinSound\obj\Debug\WinSound.dll
+C:\Users\Amrudesh\Desktop\New folder\WinSound\WinSound\obj\Debug\WinSound.pdb
